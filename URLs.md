@@ -5,7 +5,7 @@
   1. [ggbarstats() - bar charts in R](https://www.linkedin.com/posts/joachim-schork_rprogramming-datavisualization-dataviz-activity-7364687402231111682-8qyO)
   2. [Tom Sawyer software](https://www.tomsawyer.com/)
   3. [Visualisation is cognition, not decoration](https://www.linkedin.com/posts/lebedevpavel_biological-research-visualisation-ugcPost-7379780358575239168-cRNC)
-  4. https://www.bsaver.io/misc/pretty-figures   https://ipe.otfried.org/
+  4. [IPE editor allows to save PDF that remain editable in IPE and allows to use LaTeX natively in the figures](https://www.bsaver.io/misc/pretty-figures); [IPE](https://ipe.otfried.org/)
   5. [GitHub: Introductory book for SNA with R](https://github.com/schochastics/R4SNA/blob/main/visualization/introduction.qmd)
   6. https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R  podatki
   7. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/

@@ -6,7 +6,7 @@
   2. [Tom Sawyer software](https://www.tomsawyer.com/)
   3. [Visualisation is cognition, not decoration](https://www.linkedin.com/posts/lebedevpavel_biological-research-visualisation-ugcPost-7379780358575239168-cRNC)
   4. https://www.bsaver.io/misc/pretty-figures   https://ipe.otfried.org/
-  5. https://github.com/schochastics/R4SNA/blob/main/visualization/introduction.qmd
+  5. [GitHub: Introductory book for SNA with R](https://github.com/schochastics/R4SNA/blob/main/visualization/introduction.qmd)
   6. https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R  podatki
   7. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
   8. [Global Collaboration in Internet of Vehicles (IoV) Research (2001–2025)](https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ) Circular

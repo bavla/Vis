@@ -7,7 +7,7 @@
   3. [Visualisation is cognition, not decoration](https://www.linkedin.com/posts/lebedevpavel_biological-research-visualisation-ugcPost-7379780358575239168-cRNC)
   4. [IPE editor allows to save PDF that remain editable in IPE and allows to use LaTeX natively in the figures](https://www.bsaver.io/misc/pretty-figures); [IPE](https://ipe.otfried.org/)
   5. [GitHub: Introductory book for SNA with R](https://github.com/schochastics/R4SNA/blob/main/visualization/introduction.qmd)
-  6. https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R  podatki
+  6. [Economics and Banking & Finance visualization](https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R),  data
   7. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
   8. [Global Collaboration in Internet of Vehicles (IoV) Research (2001–2025)](https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ) Circular
   10. https://public.flourish.studio/visualisation/20838395/

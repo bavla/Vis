@@ -45,7 +45,7 @@
   16. https://github.com/noduslabs/infranodus
   17. https://creately.com/lp/cisco-network-diagrams/
   18. https://jsoncrack.com/
-  19. https://online.visual-paradigm.com/diagrams/solutions/free-network-diagram-software/
+  19. [Visual Paradigm Online - Free Network Diagram Software](https://online.visual-paradigm.com/diagrams/solutions/free-network-diagram-software/)
 
 ## Reviews
 

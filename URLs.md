@@ -10,7 +10,6 @@
   6. https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R  podatki
   7. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
   8. [Global Collaboration in Internet of Vehicles (IoV) Research (2001–2025)](https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ) Circular
-  9. https://get.visualmind.app/sign-up/password Ljubljana
   10. https://public.flourish.studio/visualisation/20838395/
   11. https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/
   12. https://visme.co/blog/best-data-visualizations/

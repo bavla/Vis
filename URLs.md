@@ -3,67 +3,65 @@
   1. https://www.linkedin.com/posts/joachim-schork_rprogramming-datavisualization-dataviz-activity-7364687402231111682-8qyO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
   2. https://www.tomsawyer.com/webinar-visualize-complex-sysml-v2-models-with-precision
   3. https://www.linkedin.com/posts/lebedevpavel_biological-research-visualisation-ugcPost-7379780358575239168-cRNC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
-https://www.bsaver.io/misc/pretty-figures   https://ipe.otfried.org/
-https://github.com/schochastics/R4SNA/blob/main/visualization/introduction.qmd
-https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R  podatki
-https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
-https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
-https://get.visualmind.app/sign-up/password Ljubljana
-https://public.flourish.studio/visualisation/20838395/
-https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/
-https://visme.co/blog/best-data-visualizations/
-https://www.gooddata.com/blog/interactive-data-visualization/
-https://data.europa.eu/apps/data-visualisation-guide/
-https://vladislav-morozov.github.io/blog/statistics/theory/2025-04-21-visualizing-law-large-numbers-convergence-probability/
-https://r-graph-gallery.com/
-https://memgraph.com/
-https://github.com/c2g-dev/city2graph
-https://sites.google.com/site/aladecouvertedesgrapheset/
-https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
-https://www.linkedin.com/company/state-of-the-graph/
-https://scads.ai/theses/extending-the-rdf-knowledge-graph-semopenalex-org/
-https://www.linkedin.com/posts/zachary-c-83303936b_one-of-my-favorite-ideas-from-applied-math-share-7396651999162970113-_0m5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
-https://flourish.studio/visualisations/network-charts/
+  4. https://www.bsaver.io/misc/pretty-figures   https://ipe.otfried.org/
+  5. https://github.com/schochastics/R4SNA/blob/main/visualization/introduction.qmd
+  6. https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R  podatki
+  7. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
+  8. https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
+  9. https://get.visualmind.app/sign-up/password Ljubljana
+  10. https://public.flourish.studio/visualisation/20838395/
+  11. https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/
+  12. https://visme.co/blog/best-data-visualizations/
+  13. https://www.gooddata.com/blog/interactive-data-visualization/
+  14. https://data.europa.eu/apps/data-visualisation-guide/
+  15. https://vladislav-morozov.github.io/blog/statistics/theory/2025-04-21-visualizing-law-large-numbers-convergence-probability/
+  16. https://r-graph-gallery.com/
+  17. https://memgraph.com/
+  18. https://github.com/c2g-dev/city2graph
+  19. https://sites.google.com/site/aladecouvertedesgrapheset/
+  20. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
+  21. https://www.linkedin.com/company/state-of-the-graph/
+  22. https://scads.ai/theses/extending-the-rdf-knowledge-graph-semopenalex-org/
+  23. https://www.linkedin.com/posts/zachary-c-83303936b_one-of-my-favorite-ideas-from-applied-math-share-7396651999162970113-_0m5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
+  24. https://flourish.studio/visualisations/network-charts/
 
 
-https://www.edrawsoft.com/ad/network-diagram-software.html
+  1. https://www.edrawsoft.com/ad/network-diagram-software.html
+  2. https://graphwise.ai/do-it-graphwise/
+  3. https://clickup.com/p/lp/features/gantt-chart-view-make
+  4. https://www.nchsoftware.com/chart/graph.html
+  5. https://csacademy.com/app/graph_editor/
+  6. https://graphviz.org/doc/info/lang.html
+  7. https://guides.library.jhu.edu/datavisualization/network
+  8. https://neo4j.com/blog/graph-visualization/neo4j-graph-visualization-tools/
+  9. https://www.smartdraw.com/network-diagram/network-diagram-software.htm
+  10. https://graphonline.top/
+  11. https://cytoscape.org/
+  12. https://www.synergycodes.com/blog/top-10-free-graph-visualization-software-to-simplify-complex-data
+  13. https://www.sigmajs.org/
+  14. https://www.devtoolsdaily.com/graphviz/
+  15. https://infranodus.com/docs/network-visualization-software
+  16. https://github.com/noduslabs/infranodus
+  17. https://creately.com/lp/cisco-network-diagrams/
+  18. https://jsoncrack.com/
+  19. https://online.visual-paradigm.com/diagrams/solutions/free-network-diagram-software/
 
-https://graphwise.ai/do-it-graphwise/
-https://clickup.com/p/lp/features/gantt-chart-view-make
-https://www.nchsoftware.com/chart/graph.html
-https://csacademy.com/app/graph_editor/
-https://graphviz.org/doc/info/lang.html
-https://guides.library.jhu.edu/datavisualization/network
-https://neo4j.com/blog/graph-visualization/neo4j-graph-visualization-tools/
-https://www.smartdraw.com/network-diagram/network-diagram-software.htm
-https://graphonline.top/
-https://cytoscape.org/
-https://www.synergycodes.com/blog/top-10-free-graph-visualization-software-to-simplify-complex-data
-https://www.sigmajs.org/
-https://www.devtoolsdaily.com/graphviz/
-https://infranodus.com/docs/network-visualization-software
-https://github.com/noduslabs/infranodus
-https://creately.com/lp/cisco-network-diagrams/
-https://jsoncrack.com/
-https://online.visual-paradigm.com/diagrams/solutions/free-network-diagram-software/
+  1. https://scispace.com/pdf/social-network-analysis-visualization-tools-a-comparative-4td658p476.pdf
+  2. https://book.archnetworks.net/visualization
+  3. https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/blog/how-to-make-power-bi-network-charts-step-by-step
+  4. https://www.reddit.com/r/reactjs/comments/o0rpta/network_graph_visualization_libraries/
+  5. https://www.eraser.io/diagramgpt
+  6. https://www.quora.com/What-software-exists-for-visualizing-and-analyzing-large-networks
+  7. https://www.canva.com/graphs/diagrams/
+  8. https://workbook.craftingdigitalhistory.ca/supporting%20materials/netviz/
+  9. https://networkviz.sourceforge.net/
 
-https://scispace.com/pdf/social-network-analysis-visualization-tools-a-comparative-4td658p476.pdf
-https://book.archnetworks.net/visualization
-https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/blog/how-to-make-power-bi-network-charts-step-by-step
-https://www.reddit.com/r/reactjs/comments/o0rpta/network_graph_visualization_libraries/
-https://www.eraser.io/diagramgpt
-https://www.quora.com/What-software-exists-for-visualizing-and-analyzing-large-networks
-https://www.canva.com/graphs/diagrams/
-https://workbook.craftingdigitalhistory.ca/supporting%20materials/netviz/
-https://networkviz.sourceforge.net/
-
-https://www.rawgraphs.io/
-https://www.canva.com/graphs/
-https://www.koolreport.com/examples/reports/google_charts/collection/
-https://www.originlab.com/origin
-https://www.adobe.com/express/create/chart
-https://miro.com/graphs/
-https://www.visme.co/graph-maker/
-https://www.highcharts.com/products/dashboards/
-https://piktochart.com/?nab=1
+  1. https://www.rawgraphs.io/
+  2. https://www.canva.com/graphs/
+  3. https://www.koolreport.com/examples/reports/google_charts/collection/
+  4. https://www.originlab.com/origin
+  5. https://www.adobe.com/express/create/chart
+  6. https://miro.com/graphs/https://www.visme.co/graph-maker/
+  7. https://www.highcharts.com/products/dashboards/
+  8. https://piktochart.com/?nab=1
 

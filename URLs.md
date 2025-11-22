@@ -23,7 +23,7 @@
   20. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
   21. https://www.linkedin.com/company/state-of-the-graph/
   22. https://scads.ai/theses/extending-the-rdf-knowledge-graph-semopenalex-org/
-  23. https://www.linkedin.com/posts/zachary-c-83303936b_one-of-my-favorite-ideas-from-applied-math-share-7396651999162970113-_0m5
+  23. [Wasserstein (earth-mover) distance between probability distributions](https://www.linkedin.com/posts/zachary-c-83303936b_one-of-my-favorite-ideas-from-applied-math-share-7396651999162970113-_0m5)
   24. https://flourish.studio/visualisations/network-charts/
 
 ## Tools

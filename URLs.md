@@ -2,14 +2,14 @@
 
 ## Network visualization tools
 
-  1. https://www.linkedin.com/posts/joachim-schork_rprogramming-datavisualization-dataviz-activity-7364687402231111682-8qyO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
+  1. https://www.linkedin.com/posts/joachim-schork_rprogramming-datavisualization-dataviz-activity-7364687402231111682-8qyO
   2. https://www.tomsawyer.com/webinar-visualize-complex-sysml-v2-models-with-precision
-  3. https://www.linkedin.com/posts/lebedevpavel_biological-research-visualisation-ugcPost-7379780358575239168-cRNC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
+  3. [[https://www.linkedin.com/posts/lebedevpavel_biological-research-visualisation-ugcPost-7379780358575239168-cRNC|Visualisation is cognition, not decoration]]
   4. https://www.bsaver.io/misc/pretty-figures   https://ipe.otfried.org/
   5. https://github.com/schochastics/R4SNA/blob/main/visualization/introduction.qmd
   6. https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R  podatki
   7. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
-  8. https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
+  8. https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ
   9. https://get.visualmind.app/sign-up/password Ljubljana
   10. https://public.flourish.studio/visualisation/20838395/
   11. https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/
@@ -24,10 +24,10 @@
   20. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
   21. https://www.linkedin.com/company/state-of-the-graph/
   22. https://scads.ai/theses/extending-the-rdf-knowledge-graph-semopenalex-org/
-  23. https://www.linkedin.com/posts/zachary-c-83303936b_one-of-my-favorite-ideas-from-applied-math-share-7396651999162970113-_0m5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA09HkBXSjy-Xrs2_Zcg1gTNF9mYUJAGfg
+  23. https://www.linkedin.com/posts/zachary-c-83303936b_one-of-my-favorite-ideas-from-applied-math-share-7396651999162970113-_0m5
   24. https://flourish.studio/visualisations/network-charts/
 
-
+## Tools
   1. https://www.edrawsoft.com/ad/network-diagram-software.html
   2. https://graphwise.ai/do-it-graphwise/
   3. https://clickup.com/p/lp/features/gantt-chart-view-make
@@ -48,6 +48,8 @@
   18. https://jsoncrack.com/
   19. https://online.visual-paradigm.com/diagrams/solutions/free-network-diagram-software/
 
+## Reviews
+
   1. https://scispace.com/pdf/social-network-analysis-visualization-tools-a-comparative-4td658p476.pdf
   2. https://book.archnetworks.net/visualization
   3. https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/blog/how-to-make-power-bi-network-charts-step-by-step
@@ -57,6 +59,8 @@
   7. https://www.canva.com/graphs/diagrams/
   8. https://workbook.craftingdigitalhistory.ca/supporting%20materials/netviz/
   9. https://networkviz.sourceforge.net/
+
+## Web
 
   1. https://www.rawgraphs.io/
   2. https://www.canva.com/graphs/

@@ -3,7 +3,7 @@
 ## Network visualization tools
 
   1. [ggbarstats() - bar charts in R](https://www.linkedin.com/posts/joachim-schork_rprogramming-datavisualization-dataviz-activity-7364687402231111682-8qyO)
-  2. https://www.tomsawyer.com/webinar-visualize-complex-sysml-v2-models-with-precision
+  2. [Tom Sawyer software](https://www.tomsawyer.com/)
   3. [Visualisation is cognition, not decoration](https://www.linkedin.com/posts/lebedevpavel_biological-research-visualisation-ugcPost-7379780358575239168-cRNC)
   4. https://www.bsaver.io/misc/pretty-figures   https://ipe.otfried.org/
   5. https://github.com/schochastics/R4SNA/blob/main/visualization/introduction.qmd

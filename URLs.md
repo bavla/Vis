@@ -9,6 +9,11 @@
   13. [Interactive Data Visualization: The Only Guide You Need](https://www.gooddata.com/blog/interactive-data-visualization/), 2024
   14. [Data Visualisation - A Comprehensive Guide](https://data.europa.eu/apps/data-visualisation-guide/), guide
 
+## Network visualization
+
+  1. [Introduction to Network Visualization](https://guides.library.jhu.edu/datavisualization/network), JHU guide
+  10. [Katya Ognyanova: Static and dynamic network visualization with R](https://kateto.net/network-visualization/)
+
 ## Network visualization tools
 
   2. [Tom Sawyer software](https://www.tomsawyer.com/)
@@ -71,8 +76,6 @@
   6. https://miro.com/graphs/https://www.visme.co/graph-maker/
   7. https://www.highcharts.com/products/dashboards/
   8. https://piktochart.com/?nab=1
-  9. [Introduction to Network Visualization](https://guides.library.jhu.edu/datavisualization/network), JHU guide
-  10. [Katya Ognyanova: Static and dynamic network visualization with R](https://kateto.net/network-visualization/)
   11. https://gojs.net/
   12. https://d3js.org/
   13. [Mayura Draw - Vector drawing program for creating publication-quality EPS illustrations](http://www.mayura.com/), shareware

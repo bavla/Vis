@@ -10,7 +10,6 @@
   6. [Economics and Banking & Finance visualization](https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R),  data
   7. [Expanding capabilities to Linkurious Decision Intelligence platform with Spanner Graph](https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/)
   8. [Global Collaboration in Internet of Vehicles (IoV) Research (2001–2025)](https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ) Circular
-  10. https://public.flourish.studio/visualisation/20838395/
   11. [G.V() integration with Kuzu - an embedded graph database](https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/)
   12. https://visme.co/blog/best-data-visualizations/
   13. https://www.gooddata.com/blog/interactive-data-visualization/
@@ -24,7 +23,7 @@
   21. https://www.linkedin.com/company/state-of-the-graph/
   22. https://scads.ai/theses/extending-the-rdf-knowledge-graph-semopenalex-org/
   23. [Wasserstein (earth-mover) distance between probability distributions](https://www.linkedin.com/posts/zachary-c-83303936b_one-of-my-favorite-ideas-from-applied-math-share-7396651999162970113-_0m5)
-  24. https://flourish.studio/visualisations/network-charts/
+  24. [Easily create beautiful network charts with Flourish](https://flourish.studio/visualisations/network-charts/), [Example](https://public.flourish.studio/visualisation/20838395/)
 
 ## Tools
   1. https://www.edrawsoft.com/ad/network-diagram-software.html

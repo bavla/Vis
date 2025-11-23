@@ -8,7 +8,7 @@
   4. [IPE editor allows to save PDF that remain editable in IPE and allows to use LaTeX natively in the figures](https://www.bsaver.io/misc/pretty-figures); [IPE](https://ipe.otfried.org/)
   5. [GitHub: Introductory book for SNA with R](https://github.com/schochastics/R4SNA/blob/main/visualization/introduction.qmd)
   6. [Economics and Banking & Finance visualization](https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R),  data
-  7. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
+  7. [Expanding capabilities to Linkurious Decision Intelligence platform with Spanner Graph](https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/)
   8. [Global Collaboration in Internet of Vehicles (IoV) Research (2001–2025)](https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ) Circular
   10. https://public.flourish.studio/visualisation/20838395/
   11. [G.V() integration with Kuzu - an embedded graph database](https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/)

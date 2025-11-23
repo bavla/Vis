@@ -77,5 +77,13 @@
   16. https://www.ekotov.pro/2025-EDSD-open-science-quarto-github/
   17. https://github.com/huggingface/finepdfs  https://huggingface.co/datasets/HuggingFaceFW/ocr-annotations
   18. https://www.infoworld.com/article/4072500/how-to-run-an-r-data-visualization-chatbot-you-can-talk-to.html
+  19. https://www.linkedin.com/posts/tguillod_python-inkscape-matplotlib-share-7395118249354461184-XS48
+  20. https://github.com/otvam/inkscape_python_figures
+  21. https://www.linkedin.com/company/state-of-the-graph/
+  22. https://www.linkedin.com/posts/olga-logunova_bot-authenticity-youtube-activity-7350798726052962305-EupG
+  23. https://www.linkedin.com/posts/tiago-p-peixoto_research-published-in-springer-nature-journals-activity-7346067850698096642-6JeY
+  24. https://kuzudb.com/
+  25. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
+
 
 

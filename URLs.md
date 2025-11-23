@@ -67,4 +67,15 @@
   6. https://miro.com/graphs/https://www.visme.co/graph-maker/
   7. https://www.highcharts.com/products/dashboards/
   8. https://piktochart.com/?nab=1
+  9. https://guides.library.jhu.edu/datavisualization/network
+  10. https://kateto.net/network-visualization/
+  11. https://gojs.net/
+  12. https://d3js.org/
+  13. http://www.mayura.com/  https://www.openrasmol.org/   https://www.openrasmol.org/software/rasmol/
+  14. https://www.umass.edu/microbio/chime/top5.htm   https://pymol.org/
+  15. https://www.rcsb.org/docs/additional-resources/molecular-graphics-software
+  16. https://www.ekotov.pro/2025-EDSD-open-science-quarto-github/
+  17. https://github.com/huggingface/finepdfs  https://huggingface.co/datasets/HuggingFaceFW/ocr-annotations
+  18. https://www.infoworld.com/article/4072500/how-to-run-an-r-data-visualization-chatbot-you-can-talk-to.html
+
 

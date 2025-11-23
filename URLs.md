@@ -56,7 +56,7 @@
   2. [Online Companion to Network Science in Archaeology: 6 Network Visualization](https://book.archnetworks.net/visualization), book
   3. [Power BI network charts ](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/blog/how-to-make-power-bi-network-charts-step-by-step)
   4. [reddit: Network / Graph Visualization Libraries](https://www.reddit.com/r/reactjs/comments/o0rpta/network_graph_visualization_libraries/)
-  5. https://www.eraser.io/diagramgpt
+  5. [DiagramGPT](https://www.eraser.io/diagramgpt)
   6. [Quora: What software exists for visualizing and analyzing large networks?](https://www.quora.com/What-software-exists-for-visualizing-and-analyzing-large-networks)
   8. [Using igraph to visualize network data](https://workbook.craftingdigitalhistory.ca/supporting%20materials/netviz/)
   9. [Sourceforge: Network Analysis And Visualization](https://networkviz.sourceforge.net/)

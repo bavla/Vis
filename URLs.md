@@ -69,7 +69,7 @@
   7. https://www.highcharts.com/products/dashboards/
   8. https://piktochart.com/?nab=1
   9. [Introduction to Network Visualization](https://guides.library.jhu.edu/datavisualization/network), JHU guide
-  10. https://kateto.net/network-visualization/
+  10. [Katya Ognyanova: Static and dynamic network visualization with R](https://kateto.net/network-visualization/)
   11. https://gojs.net/
   12. https://d3js.org/
   13. [Mayura Draw - Vector drawing program for creating publication-quality EPS illustrations](http://www.mayura.com/), shareware

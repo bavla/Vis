@@ -2,12 +2,13 @@
 
 ## General visualization
 
+  1. [ggbarstats() - bar charts in R](https://www.linkedin.com/posts/joachim-schork_rprogramming-datavisualization-dataviz-activity-7364687402231111682-8qyO)
   15. [Vladislav Morozov: Visualizing Convergence in Probability and the Law of Large Numbers](https://vladislav-morozov.github.io/blog/statistics/theory/2025-04-21-visualizing-law-large-numbers-convergence-probability/)
   16. [The R Graph Gallery](https://r-graph-gallery.com/)
+  12. [The 30 Best Data Visualizations of 2025](https://visme.co/blog/best-data-visualizations/), Examples
 
 ## Network visualization tools
 
-  1. [ggbarstats() - bar charts in R](https://www.linkedin.com/posts/joachim-schork_rprogramming-datavisualization-dataviz-activity-7364687402231111682-8qyO)
   2. [Tom Sawyer software](https://www.tomsawyer.com/)
   3. [Visualisation is cognition, not decoration](https://www.linkedin.com/posts/lebedevpavel_biological-research-visualisation-ugcPost-7379780358575239168-cRNC)
   4. [IPE editor allows to save PDF that remain editable in IPE and allows to use LaTeX natively in the figures](https://www.bsaver.io/misc/pretty-figures); [IPE](https://ipe.otfried.org/)
@@ -16,7 +17,6 @@
   7. [Expanding capabilities to Linkurious Decision Intelligence platform with Spanner Graph](https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/)
   8. [Global Collaboration in Internet of Vehicles (IoV) Research (2001–2025)](https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ) Circular
   11. [G.V() integration with Kuzu - an embedded graph database](https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/)
-  12. [The 30 Best Data Visualizations of 2025](https://visme.co/blog/best-data-visualizations/), Examples
   13. [Interactive Data Visualization: The Only Guide You Need](https://www.gooddata.com/blog/interactive-data-visualization/), 2024
   14. [Data Visualisation - A Comprehensive Guide](https://data.europa.eu/apps/data-visualisation-guide/), guide
   17. https://memgraph.com/

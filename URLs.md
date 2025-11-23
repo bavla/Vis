@@ -11,7 +11,7 @@
   7. [Expanding capabilities to Linkurious Decision Intelligence platform with Spanner Graph](https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/)
   8. [Global Collaboration in Internet of Vehicles (IoV) Research (2001–2025)](https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ) Circular
   11. [G.V() integration with Kuzu - an embedded graph database](https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/)
-  12. https://visme.co/blog/best-data-visualizations/
+  12. [The 30 Best Data Visualizations of 2025](https://visme.co/blog/best-data-visualizations/), Examples
   13. https://www.gooddata.com/blog/interactive-data-visualization/
   14. https://data.europa.eu/apps/data-visualisation-guide/
   15. https://vladislav-morozov.github.io/blog/statistics/theory/2025-04-21-visualizing-law-large-numbers-convergence-probability/

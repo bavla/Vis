@@ -47,7 +47,7 @@
 
 ## Reviews
 
-  1. https://scispace.com/pdf/social-network-analysis-visualization-tools-a-comparative-4td658p476.pdf
+  1. [Social Network Analysis Visualization Tools: A Comparative Review](https://scispace.com/pdf/social-network-analysis-visualization-tools-a-comparative-4td658p476.pdf), paper 2020
   2. https://book.archnetworks.net/visualization
   3. https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/blog/how-to-make-power-bi-network-charts-step-by-step
   4. https://www.reddit.com/r/reactjs/comments/o0rpta/network_graph_visualization_libraries/

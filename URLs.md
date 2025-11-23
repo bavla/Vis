@@ -77,7 +77,7 @@
   11. https://gojs.net/
   12. https://d3js.org/
   13. [Mayura Draw - Vector drawing program for creating publication-quality EPS illustrations](http://www.mayura.com/), shareware
-  14. https://www.openrasmol.org/   https://www.openrasmol.org/software/rasmol/
+  14. [RasMol and OpenRasMol](https://www.openrasmol.org/); [Rasmol](https://www.openrasmol.org/software/rasmol/)
   15. https://www.umass.edu/microbio/chime/top5.htm   https://pymol.org/
   16. https://www.rcsb.org/docs/additional-resources/molecular-graphics-software
   17. https://www.ekotov.pro/2025-EDSD-open-science-quarto-github/

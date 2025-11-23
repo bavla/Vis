@@ -63,7 +63,7 @@
   1. https://www.rawgraphs.io/
   2. [Canva's online graph maker](https://www.canva.com/graphs/);  [diagrams](https://www.canva.com/graphs/diagrams/)
   3. [KoolReport's integration with the Google Chart library](https://www.koolreport.com/examples/reports/google_charts/collection/)
-  4. https://www.originlab.com/origin
+  4. [Origin is the data analysis and graphing software](https://www.originlab.com/origin)
   5. https://www.adobe.com/express/create/chart
   6. https://miro.com/graphs/https://www.visme.co/graph-maker/
   7. https://www.highcharts.com/products/dashboards/

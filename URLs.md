@@ -90,8 +90,7 @@
   17. https://www.ekotov.pro/2025-EDSD-open-science-quarto-github/
   18. https://github.com/huggingface/finepdfs  https://huggingface.co/datasets/HuggingFaceFW/ocr-annotations
   19. https://www.infoworld.com/article/4072500/how-to-run-an-r-data-visualization-chatbot-you-can-talk-to.html
-  20. https://www.linkedin.com/posts/tguillod_python-inkscape-matplotlib-share-7395118249354461184-XS48
-  21. Thomas Guillod: [Workflow for Scientific Paper Figures](https://github.com/otvam/inkscape_python_figures)
+  21. Thomas Guillod: [Workflow for Scientific Paper Figures](https://github.com/otvam/inkscape_python_figures); [LinkedIn](https://www.linkedin.com/posts/tguillod_python-inkscape-matplotlib-share-7395118249354461184-XS48)
   22. [State of the Graph](https://www.linkedin.com/company/state-of-the-graph/), LinkedIn group
   23. https://www.linkedin.com/posts/olga-logunova_bot-authenticity-youtube-activity-7350798726052962305-EupG
   25. https://kuzudb.com/

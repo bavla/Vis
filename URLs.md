@@ -55,14 +55,14 @@
   4. [reddit: Network / Graph Visualization Libraries](https://www.reddit.com/r/reactjs/comments/o0rpta/network_graph_visualization_libraries/)
   5. https://www.eraser.io/diagramgpt
   6. [Quora: What software exists for visualizing and analyzing large networks?](https://www.quora.com/What-software-exists-for-visualizing-and-analyzing-large-networks)
-  7. https://www.canva.com/graphs/diagrams/
   8. [Using igraph to visualize network data](https://workbook.craftingdigitalhistory.ca/supporting%20materials/netviz/)
   9. [Sourceforge: Network Analysis And Visualization](https://networkviz.sourceforge.net/)
 
 ## Web
 
   1. https://www.rawgraphs.io/
-  2. https://www.canva.com/graphs/
+  2. [Canva's online graph maker](https://www.canva.com/graphs/);  [diagrams](https://www.canva.com/graphs/diagrams/)
+
   3. https://www.koolreport.com/examples/reports/google_charts/collection/
   4. https://www.originlab.com/origin
   5. https://www.adobe.com/express/create/chart

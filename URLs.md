@@ -67,7 +67,7 @@
   6. https://miro.com/graphs/https://www.visme.co/graph-maker/
   7. https://www.highcharts.com/products/dashboards/
   8. https://piktochart.com/?nab=1
-  9. https://guides.library.jhu.edu/datavisualization/network
+  9. [Introduction to Network Visualization](https://guides.library.jhu.edu/datavisualization/network), JHU guide
   10. https://kateto.net/network-visualization/
   11. https://gojs.net/
   12. https://d3js.org/

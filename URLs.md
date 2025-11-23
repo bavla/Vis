@@ -38,7 +38,7 @@
   10. https://graphonline.top/
   11. https://cytoscape.org/
   12. [Top 10 free graph visualization software to simplify complex data](https://www.synergycodes.com/blog/top-10-free-graph-visualization-software-to-simplify-complex-data), Apr 2025
-  13. https://www.sigmajs.org/
+  13. [sigma.js - a JavaScript library aimed at visualizing graphs of thousands of nodes and edges](https://www.sigmajs.org/)
   14. https://www.devtoolsdaily.com/graphviz/
   15. https://infranodus.com/docs/network-visualization-software
   16. https://github.com/noduslabs/infranodus

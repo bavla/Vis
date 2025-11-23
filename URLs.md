@@ -82,7 +82,6 @@
   21. Thomas Guillod: [Workflow for Scientific Paper Figures](https://github.com/otvam/inkscape_python_figures)
   22. [State of the Graph](https://www.linkedin.com/company/state-of-the-graph/), LinkedIn group
   23. https://www.linkedin.com/posts/olga-logunova_bot-authenticity-youtube-activity-7350798726052962305-EupG
-  24. https://www.linkedin.com/posts/tiago-p-peixoto_research-published-in-springer-nature-journals-activity-7346067850698096642-6JeY
   25. https://kuzudb.com/
   26. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/
 

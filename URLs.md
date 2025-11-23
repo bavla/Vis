@@ -35,6 +35,10 @@
   22. https://scads.ai/theses/extending-the-rdf-knowledge-graph-semopenalex-org/
   23. [Wasserstein (earth-mover) distance between probability distributions](https://www.linkedin.com/posts/zachary-c-83303936b_one-of-my-favorite-ideas-from-applied-math-share-7396651999162970113-_0m5)
   24. [Easily create beautiful network charts with Flourish](https://flourish.studio/visualisations/network-charts/), [Example](https://public.flourish.studio/visualisation/20838395/)
+## JavaScript
+
+  1. [Gojs: Build diagrams for the web in JavaScript and TypeScript](https://gojs.net/)
+  12. [D3.js](https://d3js.org/)
 
 ## Tools
   1. https://www.edrawsoft.com/ad/network-diagram-software.html
@@ -79,8 +83,6 @@
   6. https://miro.com/graphs/https://www.visme.co/graph-maker/
   7. https://www.highcharts.com/products/dashboards/
   8. https://piktochart.com/?nab=1
-  11. https://gojs.net/
-  12. https://d3js.org/
   13. [Mayura Draw - Vector drawing program for creating publication-quality EPS illustrations](http://www.mayura.com/), shareware
   14. [RasMol and OpenRasMol](https://www.openrasmol.org/); [Rasmol](https://www.openrasmol.org/software/rasmol/)
   15. https://www.umass.edu/microbio/chime/top5.htm   https://pymol.org/

@@ -44,10 +44,7 @@
   17. https://creately.com/lp/cisco-network-diagrams/
   18. https://jsoncrack.com/
   19. [Visual Paradigm Online - Free Network Diagram Software](https://online.visual-paradigm.com/diagrams/solutions/free-network-diagram-software/)
-  21. https://github.com/jgraph
-  20. https://github.com/jgraph/drawio-desktop/releases/tag/v29.0.3
-  22. https://github.com/jgraph/drawio/discussions
-  23. https://en.wikipedia.org/wiki/Diagrams.net
+  21. [GitHub draw.io](https://github.com/jgraph); [Desktop](https://github.com/jgraph/drawio-desktop/releases/tag/v29.0.3); [diagrams.net](https://en.wikipedia.org/wiki/Diagrams.net); [discussions]( https://github.com/jgraph/drawio/discussions)
   24. https://fotc.com/blog/draw-io-online-guide/
 
 ## Reviews

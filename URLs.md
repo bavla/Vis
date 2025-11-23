@@ -14,6 +14,11 @@
   1. [Introduction to Network Visualization](https://guides.library.jhu.edu/datavisualization/network), JHU guide
   10. [Katya Ognyanova: Static and dynamic network visualization with R](https://kateto.net/network-visualization/)
 
+## Graph DB
+
+  1. [G.V() integration with Kuzu - an embedded graph database](https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/)
+  17. [Memgraph: Fastest, Most Affordable Graph Database](https://memgraph.com/)
+
 ## Network visualization tools
 
   2. [Tom Sawyer software](https://www.tomsawyer.com/)
@@ -23,8 +28,6 @@
   6. [Economics and Banking & Finance visualization](https://github.com/madisuryapr/Data-Visualization-and-Analytics-with-R),  data
   7. [Expanding capabilities to Linkurious Decision Intelligence platform with Spanner Graph](https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/)
   8. [Global Collaboration in Internet of Vehicles (IoV) Research (2001–2025)](https://www.linkedin.com/posts/dr-navin-kumar-46787627_research-datavisualization-scopus-share-7393267258397093888-PFsQ) Circular
-  11. [G.V() integration with Kuzu - an embedded graph database](https://gdotv.com/blog/fast-scalable-graph-querying-and-visualization-with-kuzu-and-g-v/)
-  17. [Memgraph: Fastest, Most Affordable Graph Database](https://memgraph.com/)
   18. https://github.com/c2g-dev/city2graph
   19. https://sites.google.com/site/aladecouvertedesgrapheset/
   20. https://linkurious.com/blog/linkurious-spanner-bring-graph-analytics-and-visualization/

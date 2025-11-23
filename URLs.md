@@ -1,5 +1,10 @@
 # URLs
 
+## General visualization
+
+  15. [Vladislav Morozov: Visualizing Convergence in Probability and the Law of Large Numbers](https://vladislav-morozov.github.io/blog/statistics/theory/2025-04-21-visualizing-law-large-numbers-convergence-probability/)
+  16. [The R Graph Gallery](https://r-graph-gallery.com/)
+
 ## Network visualization tools
 
   1. [ggbarstats() - bar charts in R](https://www.linkedin.com/posts/joachim-schork_rprogramming-datavisualization-dataviz-activity-7364687402231111682-8qyO)
@@ -14,8 +19,6 @@
   12. [The 30 Best Data Visualizations of 2025](https://visme.co/blog/best-data-visualizations/), Examples
   13. [Interactive Data Visualization: The Only Guide You Need](https://www.gooddata.com/blog/interactive-data-visualization/), 2024
   14. [Data Visualisation - A Comprehensive Guide](https://data.europa.eu/apps/data-visualisation-guide/), guide
-  15. [Vladislav Morozov: Visualizing Convergence in Probability and the Law of Large Numbers](https://vladislav-morozov.github.io/blog/statistics/theory/2025-04-21-visualizing-law-large-numbers-convergence-probability/)
-  16. https://r-graph-gallery.com/
   17. https://memgraph.com/
   18. https://github.com/c2g-dev/city2graph
   19. https://sites.google.com/site/aladecouvertedesgrapheset/

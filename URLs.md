@@ -54,7 +54,7 @@
   5. https://www.eraser.io/diagramgpt
   6. https://www.quora.com/What-software-exists-for-visualizing-and-analyzing-large-networks
   7. https://www.canva.com/graphs/diagrams/
-  8. https://workbook.craftingdigitalhistory.ca/supporting%20materials/netviz/
+  8. [Using igraph to visualize network data](https://workbook.craftingdigitalhistory.ca/supporting%20materials/netviz/)
   9. https://networkviz.sourceforge.net/
 
 ## Web

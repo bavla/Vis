@@ -46,7 +46,18 @@ g,d,1.0,-8.531,true
 
 [PNG](./pics/TikZvis1.png); [PDF](./pics/TikZvis1.pdf)
 
+TikZ also supports multi-layer networks. For example: [nodes](), [links]().
 ```
+\documentclass{article}
+\usepackage{tikz-network}
+\begin{document}
+\fbox{
+\begin{tikzpicture}[multilayer=3d]
+\Vertices{data/TikZnodesML.csv}
+\Edges{data/TikZlinksML.csv}
+\end{tikzpicture}
+}
+\end{document}
 ```
 
 
@@ -80,4 +91,19 @@ For the \Edges the following options are available:
 | NoLabel | false | Boolean | delete the labels |
 | RGB | false | Boolean | allow RGB colors |
 | NotInBG | false | Boolean | edges are not in the background layer |
+
+
+
+```
+```
+
+
+
+```
+```
+
+
+
+```
+```
 

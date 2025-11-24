@@ -46,7 +46,7 @@ g,d,1.0,-8.531,true
 
 [PNG](./pics/TikZvis1.png); [PDF](./pics/TikZvis1.pdf)
 
-TikZ also supports multi-layer networks. For example: [nodes](./data/TikZnodesML.csv), [links]().
+TikZ also supports multi-layer networks. For example: [nodes](./TeX/data/TikZnodesML.csv), [links]().
 ```
 \documentclass{article}
 \usepackage{tikz-network}

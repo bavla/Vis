@@ -1,0 +1,11 @@
+u,v,lw,bend,Direct
+a,b,1.0,-8.531,true
+a,c,1.0,-8.531,true
+c,d,3.0,-8.531,true
+d,e,3.0,-8.531,true
+e,c,3.0,-8.531,true
+c,f,1.0,-8.531,true
+f,a,3.0,-8.531,true
+f,g,1.0,-8.531,true
+g,g,1.0,-8.531,true
+g,d,1.0,-8.531,true

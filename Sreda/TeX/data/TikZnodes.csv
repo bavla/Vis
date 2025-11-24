@@ -1,0 +1,8 @@
+id,x,y,size,color,opacity,label,position
+a,2.868,5.518,0.5,red,0.7,Alice,below
+b,1.000,7.000,0.5,blue,0.7,Bob,below
+c,5.006,5.387,0.5,red,0.7,Claire,below
+d,6.858,3.552,0.5,blue,0.7,Dennis,below
+e,7.000,6.419,0.5,red,0.7,Esther,below
+f,3.698,2.808,0.5,blue,0.7,Frank,below
+g,5.551,1.000,0.5,blue,0.7,George,below

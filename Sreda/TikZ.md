@@ -42,6 +42,10 @@ g,d,1.0,-8.531,true
 \end{document}
 ```
 
+<img src="./pics/TikZvis1.png" width="350" alt="Example TikZ 1">
+
+https://github.com/bavla/Vis/blob/main/Sreda/pics/TikZvis1.png
+
 ```
 ```
 

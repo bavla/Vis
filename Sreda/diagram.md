@@ -1,4 +1,4 @@
-# diagram.net
+# diagrams.net
 
 
 <hr />

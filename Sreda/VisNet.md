@@ -5,8 +5,8 @@ Slike omrežij iz orodij za analizo. Format ?
   - opis sestave ( TikZ / TeX, EPS / GsView+Ghostscript, SVG / InkScape; 3D - VRML, MOL, X3D ) popravljanje dopolnjevanje slik iz orodij,
 Nosilec: papir, zaslon, VR
 
-
-  - [BMP](https://en.wikipedia.org/wiki/BMP_file_format) - bitmap
+## Bitmap formats
+  - [BMP](https://en.wikipedia.org/wiki/BMP_file_format) - BitMaP
   - [GIF](https://en.wikipedia.org/wiki/GIF) -  Graphics Interchange Format
   - [PNG](https://en.wikipedia.org/wiki/PNG) -  Portable Network Graphics
   - [JPEG](https://en.wikipedia.org/wiki/JPEG) - Joint Photographic Experts Group
@@ -20,7 +20,13 @@ Nosilec: papir, zaslon, VR
 
 <img src="./pics/communicate.gif" width="500" alt="Example TikZ 1"> [WWW](https://dribbble.com/shots/14400745-Networking) &nbsp;  <img src="./pics/giphy.webp" width="300" alt="Example TikZ 1"> [WWW](https://giphy.com/search/network)
 
+## Description formats
 
+  - [EPS](https://en.wikipedia.org/wiki/Encapsulated_PostScript) - Encapsulated PostScript
+  - [PDF](https://en.wikipedia.org/wiki/PDF) - Portable Document Format
+  - [SVG](https://en.wikipedia.org/wiki/SVG) - Scalable Vector Graphics
+  - [X3D](https://en.wikipedia.org/wiki/X3D) - eXtensible 3D
+  - 
 
 https://kateto.net/network-visualization
 

@@ -8,7 +8,6 @@ Nosilec: papir, zaslon, VR
 
   - [BMP](https://en.wikipedia.org/wiki/BMP_file_format) - bitmap
   - [GIF](https://en.wikipedia.org/wiki/GIF) -  Graphics Interchange Format
-    <img src="./pics/TikZvis1.png" width="350" alt="Example TikZ 1">
   - [PNG](https://en.wikipedia.org/wiki/PNG) -  Portable Network Graphics
   - [JPEG](https://en.wikipedia.org/wiki/JPEG) - Joint Photographic Experts Group
   - [WebP](https://en.wikipedia.org/wiki/WebP) - raster graphics file format by Google 
@@ -16,7 +15,13 @@ Nosilec: papir, zaslon, VR
 https://kurtjlewis.com/visualizing-epidemic-models-using-graphstream/
 
 https://kateto.net/network-visualization
+    <img src="./pics/communicate.gif" width="350" alt="Example TikZ 1">
 
+    <img src="./pics/AItech.gif" width="350" alt="Example TikZ 1">
+
+    <img src="./pics/statnet.gif" width="350" alt="Example TikZ 1">
+
+    <img src="./pics/SIS-BarabasiAlbert-100-25-0.5-0.25.gif" width="350" alt="Example TikZ 1">
 
 https://giphy.com/search/network
 https://dribbble.com/shots/14400745-Networking

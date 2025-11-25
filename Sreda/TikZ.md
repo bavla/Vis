@@ -66,7 +66,7 @@ nodes=\texttt{\nodesFile}, links=\texttt{\linksFile}\\[12pt]
 \end{tikzpicture}
 \end{document}
 ```
-[LaTeX](./TikZvisInt.tex); [PDF](./pics/TikZvisInt.pdf)
+[LaTeX](./TeX/TikZvisInt.tex); [PDF](./pics/TikZvisInt.pdf)
 ## Multi-layer networks
 TikZ also supports multi-layer networks. For example: [nodes](./TeX/data/TikZnodesML.csv), [links](./TeX/data/TikZlinksML.csv).
 ```

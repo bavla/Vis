@@ -1,5 +1,7 @@
 # Free/open network visualization tools
 
+paper, report, slides, web page
+
 Slike omrežij iz orodij za analizo. Format ? 
   - bitna slika (polna BMP, PNG, Web / pozabljiva JPG) Irfanview, GIMP
   - opis sestave ( TikZ / TeX, EPS / GsView+Ghostscript, SVG / InkScape; 3D - VRML, MOL, X3D ) popravljanje dopolnjevanje slik iz orodij,
@@ -28,7 +30,22 @@ Nosilec: papir, zaslon, VR
   - [X3D](https://en.wikipedia.org/wiki/X3D) - eXtensible 3D
   - 
 
-## Tools
+## Free/open tools
+
+  - [IrfanView](https://www.irfanview.com/) - bitmap editor
+  - [InkScape](https://inkscape.org/) - description editor
+  - [GsView](https://gsview.en.softonic.com/) + [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html) - PS / EPS / PDF viewer
+
+## Hints
+
+Conversions
+
+  - bitmap format -> bitmap format IfanView / save as
+  - SVG -> PDF  Chrome / print; InkScape / save as
+
+Enhancing
+
+
 
 ## References
 

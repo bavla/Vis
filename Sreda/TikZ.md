@@ -59,6 +59,10 @@ TikZ also supports multi-layer networks. For example: [nodes](./TeX/data/TikZnod
 }
 \end{document}
 ```
+<img src="./pics/TikZvisML.png" width="350" alt="Example TikZ multi-layer">
+
+[PNG](./pics/TikZvisML.png); [PDF](./pics/TikZvisML.pdf)
+
 
 
 For the \Vertices the following options are available:

@@ -20,10 +20,10 @@ https://kateto.net/network-visualization
 
 <img src="./pics/statnet.gif" width="350" alt="Example TikZ 1"> &nbsp; <img src="./pics/SIR-BarabasiAlbert-100-25-0.5-0.05.gif" width="450" alt="Example TikZ 1">
 
-<img src="./pics/communicate.gif" width="500" alt="Example TikZ 1"> [WWW](https://dribbble.com/shots/14400745-Networking) &nbsp;  <img src="./pics/giphy.webp" width="300" alt="Example TikZ 1">
+<img src="./pics/communicate.gif" width="500" alt="Example TikZ 1"> [WWW](https://dribbble.com/shots/14400745-Networking) &nbsp;  <img src="./pics/giphy.webp" width="300" alt="Example TikZ 1"> [WWW](https://giphy.com/search/network)
 
 
-https://giphy.com/search/network
+
 
 
 

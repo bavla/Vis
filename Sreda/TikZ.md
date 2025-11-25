@@ -138,7 +138,7 @@ For the `\Edges` the following options are available:
 > write.csv(nodes,file="./data/TikZigNodes.csv",row.names=FALSE,fileEncoding="UTF-8")
 > write.csv(links,file="./data/TikZigLinks.csv",row.names=FALSE,fileEncoding="UTF-8")
 ```
-
+<img src="./pics/TikZvisIg1.png" width="350" alt="Example TikZ/igraph 1"> <img src="./pics/TikZvisIg2.png" width="350" alt="Example TikZ/igraph 2">
 
 
 ```

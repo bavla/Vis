@@ -53,6 +53,7 @@ g,d,1.0,-8.531,true
 ```
 \documentclass{article}
 \usepackage[utf8]{inputenc}
+\usepackage[dvipsnames]{xcolor}
 \usepackage{tikz-network}
 \begin{document}
 \typeout{Network visualization}
@@ -140,6 +141,7 @@ For the `\Edges` the following options are available:
 ```
 <img src="./pics/TikZvisIg1.png" width="350" alt="Example TikZ/igraph 1"> <img src="./pics/TikZvisIg2.png" width="350" alt="Example TikZ/igraph 2">
 
+https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX
 
 ```
 ```

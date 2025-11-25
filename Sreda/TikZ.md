@@ -4,7 +4,9 @@
 
 With TikZ, we can construct a picture of a given network from individual components - nodes, links, labels using the `\vertex`, `\edge` and `\text` commands. However, it is much easier to prepare a description of the network picture in two tables that also contain image specifications - a node table and a link table. These tables are saved as CSV files.
 
-`TikZnodes.csv` - [node table](./TeX/data/TikZnodes.csv), 
+## Simple example
+
+`TikZnodes.csv` - [node table](./TeX/data/TikZnodes.csv) 
 ```
 id,x,y,size,color,opacity,label,position
 a,2.868,5.518,0.5,red,0.7,Alice,below
@@ -46,6 +48,7 @@ g,d,1.0,-8.531,true
 
 [PNG](./pics/TikZvis1.png); [PDF](./pics/TikZvis1.pdf)
 
+## Multi-layer networks
 TikZ also supports multi-layer networks. For example: [nodes](./TeX/data/TikZnodesML.csv), [links](./TeX/data/TikZlinksML.csv).
 ```
 \documentclass{article}
@@ -63,34 +66,34 @@ TikZ also supports multi-layer networks. For example: [nodes](./TeX/data/TikZnod
 
 [PNG](./pics/TikZvisML.png); [PDF](./pics/TikZvisML.pdf)
 
+## Options
 
-
-For the \Vertices the following options are available:
+For the `\Vertices` the following options are available:
 
 | Option | Default | Type | Definition |
 | :---         |     :---:      |     :---:      | :---       |
 | size | {} | measure | diameter of the circles |
-| color | {} | color | fillcolor of vertices |
+| color | {} | color | fillcolor of nodes |
 | opacity | {} | number | opacity of the fill color |
 | style | {} | string | additional TikZ styles |
-| layer | {} | number | assigned layer of the vertices |
+| layer | {} | number | assigned layer of the nodes |
 | NoLabel | false | Boolean | delete the labels |
 | IdAsLabel | false | Boolean | uses the Names as labels |
 | Math | false | Boolean | displays the labels in math mode |
 | RGB | false | Boolean | allow RGB colors |
-| Pseudo | false | Boolean | create a pseudo vertices |
+| Pseudo | false | Boolean | create a pseudo nodes |
 
-For the \Edges the following options are available:
+For the `\Edges` the following options are available:
 
 | Option | Default | Type | Definition |
 | :---         |     :---:      |     :---:      | :---       |
-| lw | {} | measure | line width of the edge |
-| color | {} | color | edge color |
-| opacity | {} | number | opacity of the edge |
+| lw | {} | measure | line width of the link |
+| color | {} | color | link color |
+| opacity | {} | number | opacity of the link |
 | style | {} | string | additional TikZ styles |
-| vertices | {} | file | vertices were the edges are assigned to |
-| layer | {} | number | edges in specific layers |
-| Direct | false | Boolean | allow directed edges |
+| vertices | {} | file | nodes were the links are assigned to |
+| layer | {} | number | links in specific layers |
+| Direct | false | Boolean | allow directed links (arcs)|
 | Math | false | Boolean | displays the labels in math mode |
 | NoLabel | false | Boolean | delete the labels |
 | RGB | false | Boolean | allow RGB colors |

@@ -1,0 +1,14 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz-network}
+\begin{document}
+\typeout{Network visualization}
+\typein[\nodesFile]{Enter nodes file name!}
+\typein[\linksFile]{Enter links file name!}
+\noindent\textbf{TikZvisInt}: \today\\ 
+nodes=\texttt{\nodesFile}, links=\texttt{\linksFile}\\[12pt]
+\begin{tikzpicture}
+\Vertices{\nodesFile}
+\Edges{\linksFile}
+\end{tikzpicture}
+\end{document}

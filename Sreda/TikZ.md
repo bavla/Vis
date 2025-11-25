@@ -144,5 +144,6 @@ For the `\Edges` the following options are available:
 https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX
 
 ```
+C <- c("CornflowerBlue","Lavender")
 ```
 

@@ -8,6 +8,7 @@ Nosilec: papir, zaslon, VR
 
   - [BMP](https://en.wikipedia.org/wiki/BMP_file_format) - bitmap
   - [GIF](https://en.wikipedia.org/wiki/GIF) -  Graphics Interchange Format
+    <img src="./pics/TikZvis1.png" width="350" alt="Example TikZ 1">
   - [PNG](https://en.wikipedia.org/wiki/PNG) -  Portable Network Graphics
   - [JPEG](https://en.wikipedia.org/wiki/JPEG) - Joint Photographic Experts Group
   - [WebP](https://en.wikipedia.org/wiki/WebP) - raster graphics file format by Google 

@@ -4,7 +4,7 @@
 
 With TikZ, we can construct a picture of a given network from individual components - nodes, links, labels using the `\vertex`, `\edge` and `\text` commands. However, it is much easier to prepare a description of the network picture in two tables that also contain image specifications - a node table and a link table. These tables are saved as CSV files.
 
-`TikZnodes.csv` - node table
+`TikZnodes.csv` - [node table](./TeX/data/TikZnodes.csv), 
 ```
 id,x,y,size,color,opacity,label,position
 a,2.868,5.518,0.5,red,0.7,Alice,below
@@ -16,7 +16,7 @@ f,3.698,2.808,0.5,blue,0.7,Frank,below
 g,5.551,1.000,0.5,blue,0.7,George,below
 ```
 
-`TikZlinks.csv` - link table 
+`TikZlinks.csv` - [link table](./TeX/data/TikZlinks.csv)
 ```
 u,v,lw,bend,Direct
 a,b,1.0,-8.531,true

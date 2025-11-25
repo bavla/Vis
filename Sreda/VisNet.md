@@ -18,11 +18,9 @@ https://kateto.net/network-visualization
 
 <img src="./pics/communicate.gif" width="350" alt="Example TikZ 1">
 
-<img src="./pics/AItech.gif" width="350" alt="Example TikZ 1">
+<img src="./pics/AItech.gif" width="450" alt="Example TikZ 1">
 
-<img src="./pics/statnet.gif" width="350" alt="Example TikZ 1">
-
-<img src="./pics/SIS-BarabasiAlbert-100-25-0.5-0.25.gif" width="350" alt="Example TikZ 1">
+<img src="./pics/statnet.gif" width="350" alt="Example TikZ 1"> &nbsp; <img src="./pics/SIR-BarabasiAlbert-100-25-0.5-0.05.gif" width="350" alt="Example TikZ 1">
 
 https://giphy.com/search/network
 https://dribbble.com/shots/14400745-Networking

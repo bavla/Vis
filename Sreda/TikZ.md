@@ -151,6 +151,7 @@ Change [colors](https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX) and 
 > write.csv(nodes,file="./data/TikZigNodes.csv",row.names=FALSE,fileEncoding="UTF-8")
 > write.csv(links,file="./data/TikZigLinks.csv",row.names=FALSE,fileEncoding="UTF-8")
 ```
+[nodes](./TeX/data/TikZigNodes2.csv  ); [links](./TeX/data/TikZigLinks.csv)
 
 [PNG](./pics/TikZvisIg2.png); [PDF](./pics/TikZvisIg2.pdf)
 

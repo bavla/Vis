@@ -7,7 +7,7 @@
 
 [diagrams.net](https://app.diagrams.net/?src=about)
 
-[OpenAlex types](https://github.com/bavla/Vis/blob/main/diagram/pics/OAtypes.drawio.svg)
+[OpenAlex types](https://github.com/bavla/Vis/blob/main/diagram/pics/OAtypes.drawio.svg);
 [How it works? / SVG](https://github.com/bavla/Vis/blob/main/diagram/pics/OAproc.drawio.svg)
 
 <hr />

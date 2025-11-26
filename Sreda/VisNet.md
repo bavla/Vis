@@ -39,6 +39,10 @@ I am using mostly LaTeX.
   - [IrfanView](https://www.irfanview.com/) - bitmap editor
   - [InkScape](https://inkscape.org/) - description editor
   - [GsView](https://gsview.en.softonic.com/) + [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html) - PS / EPS / PDF viewer
+  - [TikZ-network](https://ctan.org/pkg/tikz-network?lang=en)
+  - [diagrams.net](https://www.drawio.com/)
+  - [d3.js](https://d3js.org/)
+  - [sigma.js](https://www.sigmajs.org/)
 
 ## Hints
 

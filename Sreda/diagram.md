@@ -7,6 +7,8 @@
 
 [diagrams.net](https://app.diagrams.net/?src=about)
 
+[OpenAlex logo](https://commons.wikimedia.org/wiki/File:OpenAlex_logo_2021.svg)
+
 [OpenAlex types](https://github.com/bavla/Vis/blob/main/diagram/pics/OAtypes.drawio.svg);
 [How it works? / SVG](https://github.com/bavla/Vis/blob/main/diagram/pics/OAproc.drawio.svg)
 

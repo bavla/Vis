@@ -23,6 +23,8 @@ I am using mostly LaTeX.
 
 <img src="./pics/communicate.gif" width="500" alt="Communicate"> [WWW](https://dribbble.com/shots/14400745-Networking) &nbsp;  <img src="./pics/giphy.webp" width="300" alt="Network"> [WWW](https://giphy.com/search/network)
 
+[Oštro / SVG](https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/1-neigbApr22Work.svg?sanitize=true)
+
 ## Description formats
 
   - [EPS](https://en.wikipedia.org/wiki/Encapsulated_PostScript) - Encapsulated PostScript

@@ -23,8 +23,8 @@ I am using mostly LaTeX.
 
 <img src="./pics/communicate.gif" width="500" alt="Communicate"> [WWW](https://dribbble.com/shots/14400745-Networking) &nbsp;  <img src="./pics/giphy.webp" width="300" alt="Network"> [WWW](https://giphy.com/search/network)
 
-[Oštro / SVG](https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/1-neigbApr22Work.svg?sanitize=true)  
-<img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/VOS22.svg?sanitize=true" width="500">
+[Oštro / SVG](https://github.com/bavla/TQ/blob/master/trajectories/Feb24/README.md)  
+<img src="https://raw.githubusercontent.com/bavla/TQ/master/trajectories/Feb24/1-neigbApr22Work.svg?sanitize=true" width="500">
 
 [EU airports core / X3D](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado:work:2m:mwn:x3d:aircoref)
 

@@ -143,8 +143,17 @@ For the `\Edges` the following options are available:
 
 Change [colors](https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX) and [shapes](https://tikz.dev/library-shapes).
 ```
-C <- c("CornflowerBlue","Lavender")
+> n <- gorder(T); m <- gsize(T)
+> C <- c("CornflowerBlue","Lavender"); S <- c("rectangle","circle")
+> N <- as_data_frame(T,"vertices"); L <- as_data_frame(T,"edges"); E <- ends(T,E(T),names=FALSE)
+> nodes <- data.frame(id=1:n,x=10*N$x,y=10*N$y,color=C[1+N$sex],shape=S[1+N$sex],label=N$name,position="below")
+> links <- data.frame(u=E[,1],v=E[,2],lw=L$weight)
+> write.csv(nodes,file="./data/TikZigNodes.csv",row.names=FALSE,fileEncoding="UTF-8")
+> write.csv(links,file="./data/TikZigLinks.csv",row.names=FALSE,fileEncoding="UTF-8")
 ```
+
+[PNG](./pics/TikZvisIg2.png); [PDF](./pics/TikZvisIg2.pdf)
+
 ## igraph / Pajek
 
 Bill Cherowitzo's [Graph and Digraph Glossary](https://github.com/bavla/Nets/blob/master/data/Pajek/dic/TG/glossTG.md). 

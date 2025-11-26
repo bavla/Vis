@@ -119,9 +119,7 @@ For the `\Edges` the following options are available:
 | RGB | false | Boolean | allow RGB colors |
 | NotInBG | false | Boolean | edges are not in the background layer |
 
-## igraph
-
-
+## igraph / RDS
 
 
 ```

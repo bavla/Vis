@@ -141,10 +141,49 @@ For the `\Edges` the following options are available:
 ```
 <img src="./pics/TikZvisIg1.png" width="350" alt="Example TikZ/igraph 1"> <img src="./pics/TikZvisIg2.png" width="350" alt="Example TikZ/igraph 2">
 
-https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX
 
+
+Change [colors](https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX)
 ```
 C <- c("CornflowerBlue","Lavender")
+```
+## igraph / Pajek
+
+Bill Cherowitzo's [Graph and Digraph Glossary](https://github.com/bavla/Nets/blob/master/data/Pajek/dic/TG/glossTG.md). 
+
+An arc (X,Y) from term X to term Y exists in the network iff in the Graph and Digraph Glossary the term Y is used to describe the meaning of term X.
+
+Using Pajek, it turned out that the network is almost acyclic - it can be visualized by levels.
+```
+> TG <- read_graph("glossTGstrong.net",format="pajek")
+> plot(TG)
+> n <- gorder(TG); m <- gsize(TG); C <- c("cyan","red","magenta","blue","green","yellow")
+> N <- as_data_frame(TG,"vertices"); L <- as_data_frame(TG,"edges")
+> E <- ends(TG,E(TG),names=FALSE); S <- read.csv("glossTGstrong.clu")
+> nodes <- data.frame(id=1:n,x=15*N$x,y=15*(1-N$y),color=C[1+S[,1]],label=N$name,position="right")
+> links <- data.frame(u=E[,1],v=E[,2],lw=L$weight,Direct="true")
+> write.csv(nodes,file="./data/TikZtgNodes.csv",row.names=FALSE,fileEncoding="UTF-8")
+> write.csv(links,file="./data/TikZtgLinks.csv",row.names=FALSE,fileEncoding="UTF-8")
+
+```
+
+
+`TikZvisPaj.tex`
+```
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{tikz-network}
+\begin{document}
+\noindent\textbf{TikZvis}: \today\\ 
+nodes=\texttt{data/TikZtgNodes.csv}, links=\texttt{data/TikZtgLinks.csv}\\[12pt]
+\begin{tikzpicture}
+\SetVertexStyle[TextFont=\tiny,MinSize=0.2cm]
+\SetEdgeStyle[Color=Gray]
+\Vertices{data/TikZtgNodes.csv}
+\Edges{data/TikZtgLinks.csv}
+\end{tikzpicture}
+\end{document}
 ```
 
 

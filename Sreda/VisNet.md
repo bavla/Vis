@@ -53,7 +53,7 @@ Enhancing
 
 ## References
 
-1. https://kateto.net/network-visualization
+1. Katherine Ognyanova: [Static and dynamic network visualization with R](https://kateto.net/network-visualization), 2025.
 
 
 

@@ -141,7 +141,7 @@ For the `\Edges` the following options are available:
 
 
 
-Change [colors](https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX)
+Change [colors](https://www.overleaf.com/learn/latex/Using_colors_in_LaTeX) and [shapes](https://tikz.dev/library-shapes).
 ```
 C <- c("CornflowerBlue","Lavender")
 ```

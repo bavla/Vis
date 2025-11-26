@@ -7,7 +7,7 @@
 
 [diagrams.net](https://app.diagrams.net/?src=about)
 
-[OpenAlex logo](https://commons.wikimedia.org/wiki/File:OpenAlex_logo_2021.svg)
+[OpenAlex logo](https://commons.wikimedia.org/wiki/File:OpenAlex_logo_2021.svg); [New logo, Sept 2025](https://blog.openalex.org/a-new-logo-for-openalex/)
 
 [OpenAlex types](https://github.com/bavla/Vis/blob/main/diagram/pics/OAtypes.drawio.svg);
 [How it works? / SVG](https://github.com/bavla/Vis/blob/main/diagram/pics/OAproc.drawio.svg)

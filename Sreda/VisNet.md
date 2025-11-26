@@ -1,11 +1,12 @@
 # Free/open network visualization tools
 
-paper, report, slides, web page
+Writing paper, report, slides, web page.
 
-Slike omrežij iz orodij za analizo. Format ? 
-  - bitna slika (polna BMP, PNG, Web / pozabljiva JPG) Irfanview, GIMP
-  - opis sestave ( TikZ / TeX, EPS / GsView+Ghostscript, SVG / InkScape; 3D - VRML, MOL, X3D ) popravljanje dopolnjevanje slik iz orodij,
-Nosilec: papir, zaslon, VR
+  - different tools (free / commercial), tasks
+  - different formats
+  - different media (paper A4, poster, slides, screen, screen+computer, VR) 
+  
+I am using mostly LaTeX.
 
 ## Bitmap formats
   - [BMP](https://en.wikipedia.org/wiki/BMP_file_format) - BitMaP

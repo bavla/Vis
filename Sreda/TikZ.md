@@ -162,9 +162,8 @@ Using Pajek, it turned out that the network is almost acyclic - it can be visual
 > links <- data.frame(u=E[,1],v=E[,2],lw=L$weight,Direct="true")
 > write.csv(nodes,file="./data/TikZtgNodes.csv",row.names=FALSE,fileEncoding="UTF-8")
 > write.csv(links,file="./data/TikZtgLinks.csv",row.names=FALSE,fileEncoding="UTF-8")
-
 ```
-
+[nodes](./TeX/data/TikZtgNodes.csv); [links](./TeX/data/TikZtgLinks.csv)
 
 `TikZvisPaj.tex`
 ```
@@ -184,7 +183,7 @@ nodes=\texttt{data/TikZtgNodes.csv}, links=\texttt{data/TikZtgLinks.csv}\\[12pt]
 \end{document}
 ```
 
-
+[PDF](./pics/TikZvisPaj.pdf)
 
 <hr />
 
